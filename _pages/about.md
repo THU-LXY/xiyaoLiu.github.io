@@ -15,7 +15,7 @@ redirect_from:
 
 ## Education
 
-- **Aug. 2022 — Now**: B.Sc. in Measurement and Control Technology and Instrument, WeiXian College, Tsinghua University, BeiJing
+- **Aug. 2022 — Now**: B.Sc. in Measurement and Control Technology and Instrument, WeiXian College, Tsinghua University, Beijing
 - **Sept. 2019 — June 2022**: HuangChuan Senior High School, Qinghai
 
 ## Honors & Award
