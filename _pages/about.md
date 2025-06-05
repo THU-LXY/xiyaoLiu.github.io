@@ -10,4 +10,4 @@ redirect_from:
 
   I'm very fortunate to be advised by [Prof. Wei Haoyun](https://faculty.dpi.tsinghua.edu.cn/team/luckiwei), whose research interests include dual comb spectroscopy, Coherent Anti-Stokes Raman Spectroscopy.
 
-  For free to talk! My Email is [Here](liuxiyao22@mails.tsinghua.edu.cn)
+  For free to talk! My Email is [Here](mailto:liuxiyao22@mails.tsinghua.edu.cn)
