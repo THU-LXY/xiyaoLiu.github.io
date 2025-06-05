@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../image/photo.png"
+  avatar           : "../images/photo.png"
   name             : "Liu Xiyao"
   pronouns         : # example: "she/her"  
   bio              : "An Introvert"
   location         : "Beijing China"
   employer         : "Tsinghua University"
   uri              : # URL
-  email            : "[email](liuxiyao22@mails.tsinghua.edu.cn)" 
+  email            : "liuxiyao22@mails.tsinghua.edu.cn" 
 
   # Academic websites
   academia         : # URL
