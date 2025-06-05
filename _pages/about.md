@@ -23,14 +23,14 @@ redirect_from:
 - **Oct. 2024**: Tsinghua University General Excellence Award
 
 ## Projects
-### **Non-Cooperative Target Dual-Comb Gas Spectroscopy Analysis Via Deep Learning**  
+### <span style="color:#3E608D"><b>Non-Cooperative Target Dual-Comb Gas Spectroscopy Analysis Via Deep Learning</b></span>  
 *Innovative Training Program for University Students*  
 **June 2024 – April 2025**  
 - Developed a deep learning framework to reconstruct high-SNR spectra from noisy dual-comb signals under non-cooperative reflection conditions.  
 - Integrated spectral denoising, baseline correction, and gas concentration regression into an end-to-end model.  
 - Improved robustness of gas detection in low-reflectivity and weak-signal environments.
 
-### **Real-Time Dual-Comb IGM Correction Based on FPGA**  
+### <span style="color:#3E608D"><b>Real-Time Dual-Comb IGM Correction Based on FPGA</b></span>  
 *Tsinghua University Academic Research Promotion Program (Grade A)*  
 **July 2025 – Present**  
 - Designing FPGA-based hardware to enable real-time correction of dual-comb interferograms (IGM).  
