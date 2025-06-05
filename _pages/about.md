@@ -13,16 +13,16 @@ redirect_from:
   For free to talk! My Email is [Here](mailto:liuxiyao22@mails.tsinghua.edu.cn)
   
 
-## Education
+# Education
 
 - **Aug. 2022 — Now**: B.Sc. in Measurement and Control Technology and Instrument, WeiXian College, Tsinghua University, Beijing
 - **Sept. 2019 — June 2022**: HuangChuan Senior High School, Qinghai
 
-## Honors & Award
+# Honors & Award
 ### Scholorships
 - **Oct. 2024**: Tsinghua University General Excellence Award
 
-## Projects
+# Projects
 ### <span style="color:#3E608D"><b>Non-Cooperative Target Dual-Comb Gas Spectroscopy Analysis Via Deep Learning</b></span>  
 *Innovative Training Program for University Students*  
 **June 2024 – April 2025**  
